@@ -32,10 +32,9 @@ The model was trained for 300 epochs using Transfer Learning (COCO Checkpoints).
 ## Screenshots & Architecture
 | User Interface | Backend Logic | Detection Result |
 |:---:|:---:|:---:|
-| ![UI](https://github.com/amna-014/MediScan-Project/blob/main/20943.jpg?raw=true) | ![Backend](https://github.com/amna-014/MediScan-Project/blob/main/Screenshot%20(131).png?raw=true) | ![Detection](https://github.com/amna-014/MediScan-Project/blob/main/Screenshot%20(127).png?raw=true) |
+| ![UI](https://github.com/amna-014/MediScan-Project/blob/main/initial%20screen.jpeg?raw=true) | ![Backend](https://github.com/amna-014/MediScan-Project/blob/main/Screenshot%20(131).png?raw=true) | ![Detection](https://github.com/amna-014/MediScan-Project/blob/main/final%20result.jpeg?raw=true) |
 | *Clean Material Design UI* | *ActivityStarter Intent Blocks* | *Performance Metrics (mAP 97%)* |
 
-> **Note:** Ideally, replace the 3rd image above with a screenshot of your app detecting the Saniplast box!
 
 ## How to Test
 1.  Download the `MediScan.apk` file from this repository.
