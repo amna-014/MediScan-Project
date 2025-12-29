@@ -29,11 +29,13 @@ The model was trained for 300 epochs using Transfer Learning (COCO Checkpoints).
 * **Precision:** 99.3%
 * **Recall:** 97.0%
 
-## Screenshots 
+## Screenshots & Architecture
 | User Interface | Backend Logic | Detection Result |
 |:---:|:---:|:---:|
-| *([Paste Link to Screenshot 1 Here](https://github.com/amna-014/MediScan-Project/blob/main/Screenshot%20(127).png?raw=true))* | 
-| *Clean Material Design UI* | *ActivityStarter Intent Blocks* | *Real-time Bounding Box* |
+| ![UI](https://github.com/amna-014/MediScan-Project/blob/main/20943.jpg?raw=true) | ![Backend](https://github.com/amna-014/MediScan-Project/blob/main/Screenshot%20(131).png?raw=true) | ![Detection](https://github.com/amna-014/MediScan-Project/blob/main/Screenshot%20(127).png?raw=true) |
+| *Clean Material Design UI* | *ActivityStarter Intent Blocks* | *Performance Metrics (mAP 97%)* |
+
+> **Note:** Ideally, replace the 3rd image above with a screenshot of your app detecting the Saniplast box!
 
 ## How to Test
 1.  Download the `MediScan.apk` file from this repository.
@@ -44,6 +46,10 @@ The model was trained for 300 epochs using Transfer Learning (COCO Checkpoints).
     * **Saniplast Box**
     * **Digital Thermometer**
 
+## Development Team
+* **Amna Yousuf** (2022F-BBM-012)
+* **Shahmeer Hussain** (2022F-BBM-014)
+* **Sabeen Ansari** (2022F-BBM-035)
 
-
+---
 *© 2025 MediScan Project. Built for the Dept. of Biomedical Engineering.*
